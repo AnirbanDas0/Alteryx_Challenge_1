@@ -4,7 +4,7 @@ I am starting a weekly Alteryx Challenge series on my LinkedIn page. Each week, 
 
 
 
-Challange #1 :  Using the data provided in the start file, create an ordered list of the provided unofficial holidays.  
+Challange #1 :  Using the data provided in the question file, create an ordered list of the provided unofficial holidays.  
 
 
 
